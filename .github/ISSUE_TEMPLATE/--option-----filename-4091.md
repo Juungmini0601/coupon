@@ -1,5 +1,5 @@
 ---
-name: Issue template-4091
+name: Issue template
 about: Issue template 입니다.
 title: ''
 labels: ''
